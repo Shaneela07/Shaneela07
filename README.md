@@ -1,8 +1,8 @@
-![logo](https://github.com/Shaneela07/Shaneela07/blob/main/Banner_me.pdf)
+![logo](https://github.com/Shaneela07/Shaneela07/blob/main/Screenshot%202025-09-18%20210919.png)
 <h1 align="center">Hi 👋, I'm Shanila Anjum</h1>
-<h3 align="center">A passionate Data Science Intern/Machine Learner/Technology geek/Mathematics Aficionado from Mumbai</h3>
+<h3 align="center">A passionate Data Science Intern / Machine Learner / Technology geek / Mathematics Aficionado from Mumbai</h3>
 
-<img align="right" alt="coding" width ="500" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+<img align="right" alt="coding" width ="600" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaneela07&label=Profile%20views&color=0e75b6&style=flat" alt="shaneela07" /> </p>
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shanilaanjum07@gmail.com**
 
-- ⚡ Fun fact **Sometimes I feel like a Data Detective🕵️‍♀️, subconsciously connecting the dots everywhere I go! 🧠✨**
+- ⚡ Fun fact: **Sometimes I feel like a Data Detective🕵️‍♀️, subconsciously connecting the dots everywhere I go! 🧠✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
