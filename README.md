@@ -55,12 +55,17 @@
 
 ### 🐍 Watch my contributions get eaten by a snake!
 
-#### SVG version
-![GitHub Snake Light](./dist/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](./dist/snake.svg#gh-dark-mode-only)
+<div align="center">
 
-#### GIF version
-![GitHub Snake Animation](./dist/snake.gif)
+#### 🌞 Light & Dark Mode SVG
+![GitHub Snake Light](https://raw.githubusercontent.com/Shaneela07/Shaneela07/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Shaneela07/Shaneela07/output/github-snake-dark.svg#gh-dark-mode-only)
+
+#### 🎞️ GIF Version
+![GitHub Snake Animation](https://raw.githubusercontent.com/Shaneela07/Shaneela07/output/ocean.gif)
+
+</div>
+
 
 
 
