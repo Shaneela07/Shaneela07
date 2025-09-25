@@ -55,8 +55,12 @@
 
 ### 🐍 Watch my contributions get eaten by a snake!
 
+#### SVG version
 ![GitHub Snake Light](./dist/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](./dist/snake.svg#gh-dark-mode-only)
+
+#### GIF version
+![GitHub Snake Animation](./dist/snake.gif)
 
 
 
