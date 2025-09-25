@@ -25,4 +25,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git checkout --orphan output
+git rm -rf .
+git commit --allow-empty -m "Initial output branch"
+git push origin output
+
 
