@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **TV Production house Analytics**
 
-- 🌱 I’m currently learning **LSTM ,NLP**
+- 🌱 I’m currently learning **LSTM ,NLP, Transformers**
 
 - 👯 I’m looking to collaborate on **Data based Projects**
 
